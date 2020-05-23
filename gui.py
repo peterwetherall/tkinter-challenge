@@ -5,7 +5,7 @@ import tkinter as tk
 root = tk.Tk()
 root.geometry("565x440")
 root.resizable(0, 0)
-root.title("TkInter GUI Challenge - Peter Wetherall")
+root.title("Tkinter GUI Challenge - Peter Wetherall")
 
 #Title and description
 tk.Label(root, text="Gamer’s Website", fg="#388E9A", anchor="w", width=30, font="Times 20 italic bold").place(x=10, y=10)
